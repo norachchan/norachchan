@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Norach Chan</h1>
+<h1 align="center">Hi 👋, I'm Norah Charon</h1>
 <h3 align="center">📱 Mobile & Desktop Developer · Flutter · Python · Kotlin</h3>
 
 <p align="left">
